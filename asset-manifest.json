@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.2cce8147.chunk.css",
+    "main.js": "/weather/static/js/main.2257d0b7.chunk.js",
+    "main.js.map": "/weather/static/js/main.2257d0b7.chunk.js.map",
+    "runtime~main.js": "/weather/static/js/runtime~main.6cff1e35.js",
+    "runtime~main.js.map": "/weather/static/js/runtime~main.6cff1e35.js.map",
+    "static/css/2.dbb5c19b.chunk.css": "/weather/static/css/2.dbb5c19b.chunk.css",
+    "static/js/2.9e7d821e.chunk.js": "/weather/static/js/2.9e7d821e.chunk.js",
+    "static/js/2.9e7d821e.chunk.js.map": "/weather/static/js/2.9e7d821e.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "precache-manifest.9b04b046ff2dc4f946fc818282a644ef.js": "/weather/precache-manifest.9b04b046ff2dc4f946fc818282a644ef.js",
+    "service-worker.js": "/weather/service-worker.js",
+    "static/css/2.dbb5c19b.chunk.css.map": "/weather/static/css/2.dbb5c19b.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/weather/static/css/main.2cce8147.chunk.css.map",
+    "static/media/bootstrap.min.css": "/weather/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}
