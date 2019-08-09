@@ -18,7 +18,7 @@ class  App extends React.Component {
     // const fetching = await fetch('http://api.openweathermap.org/data/2.5/weather?q={city},{country}&appid=eddc59533a22df8a0f007f862477e2ff');
     // const response = await fetching.json();
 
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=eddc59533a22df8a0f007f862477e2ff`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&units=metric&appid=eddc59533a22df8a0f007f862477e2ff`)
                 .then((response) => {
                     return response.json();
                 })
